@@ -1,0 +1,1425 @@
+[
+    {
+        "references": [
+            {
+                "form_id": "FORM2SECTION1",
+                "field_id": "newfield5a7ae5b6",
+                "label": "Basic Auto Inc for Unique ID"
+            }
+        ],
+        "_id": "local-autoincrementers",
+        "_rev": "2-5e79abc831b95100dfc6488d076c23cd"
+    },
+    {
+        "is_attachment": false,
+        "metadata": {
+            "accessFORM1": [
+                "admin"
+            ],
+            "accessFORM2": [
+                "admin"
+            ],
+            "accessFORM3": [
+                "admin"
+            ]
+        },
+        "_id": "project-metadata-access",
+        "_rev": "2-d1e48a9c70226a4839bc7ff9e1d920e4"
+    },
+    {
+        "is_attachment": false,
+        "metadata": [
+            "admin",
+            "moderator",
+            "team"
+        ],
+        "_id": "project-metadata-accesses",
+        "_rev": "2-57281ad43adb1c626b6712c50bd29606"
+    },
+    {
+        "is_attachment": false,
+        "metadata": {},
+        "_id": "project-metadata-behaviours",
+        "_rev": "2-989063219615c1b1673c06016aeaccf4"
+    },
+    {
+        "is_attachment": false,
+        "metadata": [],
+        "_id": "project-metadata-filenames",
+        "_rev": "2-0e21d7026c192d6f8e1c192809e7a970"
+    },
+    {
+        "is_attachment": false,
+        "metadata": {
+            "FORM1": {
+                "submitActionFORM1": "Save and New",
+                "annotationFORM1": true,
+                "uncertaintyFORM1": false,
+                "formaccessinheritFORM1": false,
+                "visibleFORM1": true
+            },
+            "FORM2": {
+                "submitActionFORM2": "Save and New",
+                "annotationFORM2": true,
+                "uncertaintyFORM2": false,
+                "formaccessinheritFORM2": false,
+                "visibleFORM2": true
+            },
+            "FORM3": {
+                "submitActionFORM3": "Save and New",
+                "annotationFORM3": true,
+                "uncertaintyFORM3": false,
+                "formaccessinheritFORM3": false,
+                "visibleFORM3": true
+            }
+        },
+        "_id": "project-metadata-forms",
+        "_rev": "2-60645c3c65da4800c219f2f418f1cbe7"
+    },
+    {
+        "is_attachment": false,
+        "metadata": false,
+        "_id": "project-metadata-ispublic",
+        "_rev": "2-df2511ff05f875033b7cf55771d06534"
+    },
+    {
+        "is_attachment": false,
+        "metadata": false,
+        "_id": "project-metadata-isrequest",
+        "_rev": "2-975cd0e378113113b0a64dadff3aed1d"
+    },
+    {
+        "is_attachment": false,
+        "metadata": "",
+        "_id": "project-metadata-lead_institution",
+        "_rev": "2-58fad826e316f6023e949c62495d49b7"
+    },
+    {
+        "is_attachment": false,
+        "metadata": {},
+        "_id": "project-metadata-meta",
+        "_rev": "2-d9ce6af4a179d5e1702f8730a2f02446"
+    },
+    {
+        "is_attachment": false,
+        "metadata": "Notebook for testing every field available",
+        "_id": "project-metadata-pre_description",
+        "_rev": "2-b55609c9837b993b4bb4c5d8a22e470d"
+    },
+    {
+        "is_attachment": false,
+        "metadata": "",
+        "_id": "project-metadata-project_lead",
+        "_rev": "2-b15e5b882808b5dc6c8ca71d81ceac4c"
+    },
+    {
+        "is_attachment": false,
+        "metadata": "draft",
+        "_id": "project-metadata-project_status",
+        "_rev": "2-f69746cdc7ed06c9bd917fc7b0c40df0"
+    },
+    {
+        "is_attachment": false,
+        "metadata": {
+            "project_status": "draft",
+            "accesses": [
+                "admin",
+                "moderator",
+                "team"
+            ],
+            "forms": {
+                "FORM1": {
+                    "submitActionFORM1": "Save and New",
+                    "annotationFORM1": true,
+                    "uncertaintyFORM1": false,
+                    "formaccessinheritFORM1": false,
+                    "visibleFORM1": true
+                },
+                "FORM2": {
+                    "submitActionFORM2": "Save and New",
+                    "annotationFORM2": true,
+                    "uncertaintyFORM2": false,
+                    "formaccessinheritFORM2": false,
+                    "visibleFORM2": true
+                },
+                "FORM3": {
+                    "submitActionFORM3": "Save and New",
+                    "annotationFORM3": true,
+                    "uncertaintyFORM3": false,
+                    "formaccessinheritFORM3": false,
+                    "visibleFORM3": true
+                }
+            },
+            "sections": {},
+            "meta": {},
+            "access": {
+                "accessFORM1": [
+                    "admin"
+                ],
+                "accessFORM2": [
+                    "admin"
+                ],
+                "accessFORM3": [
+                    "admin"
+                ]
+            },
+            "ispublic": false,
+            "isrequest": false,
+            "behaviours": {},
+            "project_lead": "",
+            "lead_institution": "",
+            "pre_description": "Notebook for testing every field available",
+            "filenames": []
+        },
+        "_id": "project-metadata-projectvalue",
+        "_rev": "2-d49acc1c8c085edea94580316b50c92d"
+    },
+    {
+        "is_attachment": false,
+        "metadata": {},
+        "_id": "project-metadata-sections",
+        "_rev": "2-546ea5c1b110d2857205f182c4e8f9bc"
+    },
+    {
+        "fields": {
+            "newfield71fcae4a": {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps": {
+                        "type": "text"
+                    },
+                    "SelectProps": {},
+                    "InputLabelProps": {
+                        "label": "Default Text Field"
+                    },
+                    "FormHelperTextProps": {},
+                    "id": "newfield71fcae4a",
+                    "name": "newfield71fcae4a"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield2d8a18d3": {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps": {
+                        "type": "string"
+                    },
+                    "SelectProps": {},
+                    "InputLabelProps": {
+                        "label": "String Text Field"
+                    },
+                    "FormHelperTextProps": {},
+                    "id": "newfield2d8a18d3",
+                    "name": "newfield2d8a18d3"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield5946e78e": {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Integer",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps": {
+                        "type": "number"
+                    },
+                    "SelectProps": {},
+                    "InputLabelProps": {
+                        "label": "Number Text Field"
+                    },
+                    "FormHelperTextProps": {},
+                    "id": "newfield5946e78e",
+                    "name": "newfield5946e78e"
+                },
+                "validationSchema": [
+                    [
+                        "yup.number"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldd136be40": {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::Email",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps": {
+                        "type": "email"
+                    },
+                    "SelectProps": {},
+                    "InputLabelProps": {
+                        "label": "Email Text Field"
+                    },
+                    "FormHelperTextProps": {},
+                    "id": "newfieldd136be40",
+                    "name": "newfieldd136be40"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.email",
+                        "Enter a valid email"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldb3d87df9": {
+                "component-namespace": "formik-material-ui",
+                "component-name": "MultipleTextField",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "multiline": true,
+                    "InputProps": {
+                        "type": "text",
+                        "rows": 4
+                    },
+                    "SelectProps": {},
+                    "InputLabelProps": {
+                        "label": "MultiLine Input"
+                    },
+                    "FormHelperTextProps": {},
+                    "id": "newfieldb3d87df9",
+                    "name": "newfieldb3d87df9"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield923e4bfe": {
+                "component-namespace": "faims-custom",
+                "component-name": "Select",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Choose a field from the dropdown",
+                    "variant": "outlined",
+                    "required": false,
+                    "select": true,
+                    "InputProps": {},
+                    "SelectProps": {},
+                    "ElementProps": {
+                        "options": [
+                            {
+                                "value": "Alpha",
+                                "label": "Alpha"
+                            },
+                            {
+                                "value": " Bravo",
+                                "label": " Bravo"
+                            },
+                            {
+                                "value": " Charlie",
+                                "label": " Charlie"
+                            }
+                        ]
+                    },
+                    "InputLabelProps": {
+                        "label": "Select Field"
+                    },
+                    "id": "newfield923e4bfe",
+                    "name": "newfield923e4bfe"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldcd823089": {
+                "component-namespace": "faims-custom",
+                "component-name": "MultiSelect",
+                "type-returned": "faims-core::Array",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Choose items from the dropdown",
+                    "variant": "outlined",
+                    "required": false,
+                    "select": true,
+                    "InputProps": {},
+                    "SelectProps": {
+                        "multiple": true
+                    },
+                    "ElementProps": {
+                        "options": [
+                            {
+                                "value": "Alpha",
+                                "label": "Alpha"
+                            },
+                            {
+                                "value": " Bravo",
+                                "label": " Bravo"
+                            },
+                            {
+                                "value": " Charlie",
+                                "label": " Charlie"
+                            }
+                        ]
+                    },
+                    "InputLabelProps": {
+                        "label": "Multi Select"
+                    },
+                    "id": "newfieldcd823089",
+                    "name": "newfieldcd823089"
+                },
+                "validationSchema": [
+                    [
+                        "yup.array"
+                    ]
+                ],
+                "initialValue": [],
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldc18e17ca": {
+                "component-namespace": "faims-custom",
+                "component-name": "AdvancedSelect",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Select from list",
+                    "variant": "outlined",
+                    "required": false,
+                    "select": true,
+                    "InputProps": {},
+                    "SelectProps": {},
+                    "ElementProps": {
+                        "optiontree": [
+                            {
+                                "name": "Colour",
+                                "children": [
+                                    {
+                                        "name": "Red",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Green",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Blue",
+                                        "children": [
+                                            {
+                                                "name": "Light Blue",
+                                                "children": []
+                                            },
+                                            {
+                                                "name": "Dark Blue",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Text",
+                                "children": []
+                            }
+                        ]
+                    },
+                    "label": "Hierarchical Select Full Path",
+                    "valuetype": "full",
+                    "id": "newfieldc18e17ca",
+                    "name": "newfieldc18e17ca"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldad5a104b": {
+                "component-namespace": "faims-custom",
+                "component-name": "AdvancedSelect",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Select from list",
+                    "variant": "outlined",
+                    "required": false,
+                    "select": true,
+                    "InputProps": {},
+                    "SelectProps": {},
+                    "ElementProps": {
+                        "optiontree": [
+                            {
+                                "name": "Colour",
+                                "children": [
+                                    {
+                                        "name": "Red",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Green",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Blue",
+                                        "children": [
+                                            {
+                                                "name": "Light Blue",
+                                                "children": []
+                                            },
+                                            {
+                                                "name": "Dark Blue",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Text",
+                                "children": []
+                            }
+                        ]
+                    },
+                    "label": "Hierarchical Select Child Only",
+                    "valuetype": "child",
+                    "id": "newfieldad5a104b",
+                    "name": "newfieldad5a104b"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield01dd64f4": {
+                "component-namespace": "faims-custom",
+                "component-name": "Checkbox",
+                "type-returned": "faims-core::Bool",
+                "component-parameters": {
+                    "name": "newfield01dd64f4",
+                    "id": "newfield01dd64f4",
+                    "required": false,
+                    "type": "checkbox",
+                    "FormControlLabelProps": {
+                        "label": "Check Box"
+                    },
+                    "FormHelperTextProps": {
+                        "children": ""
+                    }
+                },
+                "validationSchema": [
+                    [
+                        "yup.bool"
+                    ]
+                ],
+                "initialValue": false,
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfielde8f63490": {
+                "component-namespace": "faims-custom",
+                "component-name": "RadioGroup",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "name": "newfielde8f63490",
+                    "id": "newfielde8f63490",
+                    "variant": "outlined",
+                    "required": false,
+                    "ElementProps": {
+                        "options": [
+                            {
+                                "value": "Alpha",
+                                "label": "Alpha",
+                                "RadioProps": {
+                                    "id": "radio-group-field-0"
+                                }
+                            },
+                            {
+                                "value": " Bravo",
+                                "label": " Bravo",
+                                "RadioProps": {
+                                    "id": "radio-group-field-1"
+                                }
+                            },
+                            {
+                                "value": " Charlie",
+                                "label": " Charlie",
+                                "RadioProps": {
+                                    "id": "radio-group-field-2"
+                                }
+                            }
+                        ]
+                    },
+                    "FormLabelProps": {
+                        "children": "Pick a number"
+                    },
+                    "FormHelperTextProps": {
+                        "children": "Make sure you choose the right one!"
+                    }
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "1",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfielde6238d9c": {
+                "component-namespace": "faims-custom",
+                "component-name": "RandomStyle",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "This is sub Title",
+                    "variant": "outlined",
+                    "label": "A Special Title",
+                    "variant_style": "h1",
+                    "html_tag": "",
+                    "id": "newfielde6238d9c",
+                    "name": "newfielde6238d9c"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldb2767e13": {
+                "component-namespace": "faims-custom",
+                "component-name": "RandomStyle",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "",
+                    "variant": "outlined",
+                    "label": "A special body",
+                    "variant_style": "body1",
+                    "html_tag": "",
+                    "id": "newfieldb2767e13",
+                    "name": "newfieldb2767e13"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield1fbebdca": {
+                "component-namespace": "faims-custom",
+                "component-name": "RandomStyle",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "",
+                    "variant": "outlined",
+                    "label": "A special caption",
+                    "variant_style": "caption",
+                    "html_tag": "",
+                    "id": "newfield1fbebdca",
+                    "name": "newfield1fbebdca"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield8bb2ef36": {
+                "component-namespace": "faims-custom",
+                "component-name": "ActionButton",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Click To Take Action!",
+                    "variant": "outlined",
+                    "label": "Action Button",
+                    "id": "newfield8bb2ef36",
+                    "name": "newfield8bb2ef36"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "hello",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfielda572ceb9": {
+                "component-namespace": "faims-custom",
+                "component-name": "TakePoint",
+                "type-returned": "faims-pos::Location",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "name": "newfielda572ceb9",
+                    "id": "newfielda572ceb9",
+                    "helperText": "Click to save current location",
+                    "variant": "outlined",
+                    "label": "Take Point"
+                },
+                "validationSchema": [
+                    [
+                        "yup.object"
+                    ],
+                    [
+                        "yup.nullable"
+                    ]
+                ],
+                "initialValue": null,
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield5a7ae5b6": {
+                "component-namespace": "faims-custom",
+                "component-name": "BasicAutoIncrementer",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "name": "newfield5a7ae5b6",
+                    "id": "newfield5a7ae5b6",
+                    "variant": "outlined",
+                    "required": true,
+                    "num_digits": 5,
+                    "form_id": "FORM2SECTION1",
+                    "label": "Basic Auto Inc for Unique ID"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": null,
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield8977c846": {
+                "component-namespace": "faims-custom",
+                "component-name": "TemplatedStringField",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "name": "newfield8977c846",
+                    "id": "newfield8977c846",
+                    "helperText": "Human Readable ID",
+                    "variant": "outlined",
+                    "required": true,
+                    "template": "{{newfield814cba8a}}-{{newfield5a7ae5b6}}",
+                    "InputProps": {
+                        "type": "text",
+                        "readOnly": true
+                    },
+                    "InputLabelProps": {
+                        "label": "Unique Id"
+                    },
+                    "hrid": true,
+                    "numberfield": 2,
+                    "fieldselect10": "newfield814cba8a",
+                    "fieldselect11": "newfield5a7ae5b6"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "hridFORM2": {
+                "component-namespace": "faims-custom",
+                "component-name": "TemplatedStringField",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "name": "hridFORM2",
+                    "id": "hridFORM2",
+                    "helperText": "Human Readable ID",
+                    "variant": "outlined",
+                    "required": true,
+                    "template": "{{newfield814cba8a}}-{{newfield5a7ae5b6}}",
+                    "InputProps": {
+                        "type": "text",
+                        "readOnly": true
+                    },
+                    "InputLabelProps": {
+                        "label": "Unique Id"
+                    },
+                    "hrid": true,
+                    "linked": "newfield8977c846",
+                    "numberfield": 2,
+                    "fieldselect10": "newfield814cba8a",
+                    "fieldselect11": "newfield5a7ae5b6"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield814cba8a": {
+                "component-namespace": "formik-material-ui",
+                "component-name": "TextField",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Helper Text",
+                    "variant": "outlined",
+                    "required": false,
+                    "InputProps": {
+                        "type": "string"
+                    },
+                    "SelectProps": {},
+                    "InputLabelProps": {
+                        "label": "Text Field for Unique ID"
+                    },
+                    "FormHelperTextProps": {},
+                    "id": "newfield814cba8a",
+                    "name": "newfield814cba8a"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield76708d5f": {
+                "component-namespace": "faims-custom",
+                "component-name": "RelatedRecordSelector",
+                "type-returned": "faims-core::Relationship",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Select or add new related record",
+                    "variant": "outlined",
+                    "required": true,
+                    "related_type": "FORM1",
+                    "relation_type": "faims-core::Linked",
+                    "InputProps": {
+                        "type": "text"
+                    },
+                    "multiple": false,
+                    "SelectProps": {},
+                    "InputLabelProps": {
+                        "label": "Related Field Linked"
+                    },
+                    "FormHelperTextProps": {},
+                    "id": "newfield76708d5f",
+                    "name": "newfield76708d5f",
+                    "related_type_label": "Text/Select",
+                    "current_form": "FORM2",
+                    "current_form_label": "Special"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield9c29bef7": {
+                "component-namespace": "faims-custom",
+                "component-name": "RelatedRecordSelector",
+                "type-returned": "faims-core::Relationship",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "helperText": "Select or add new related record",
+                    "variant": "outlined",
+                    "required": true,
+                    "related_type": "FORM3",
+                    "relation_type": "faims-core::Child",
+                    "InputProps": {
+                        "type": "text"
+                    },
+                    "multiple": false,
+                    "SelectProps": {},
+                    "InputLabelProps": {
+                        "label": "Related Field Child"
+                    },
+                    "FormHelperTextProps": {},
+                    "id": "newfield9c29bef7",
+                    "name": "newfield9c29bef7",
+                    "related_type_label": "Images/QRCode/Maps",
+                    "current_form": "FORM2",
+                    "current_form_label": "Special"
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ],
+                    [
+                        "yup.required"
+                    ]
+                ],
+                "initialValue": "",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield3142bda9": {
+                "component-namespace": "faims-custom",
+                "component-name": "FileUploader",
+                "type-returned": "faims-attachment::Files",
+                "component-parameters": {
+                    "name": "newfield3142bda9",
+                    "id": "newfield3142bda9",
+                    "helperText": "File Upload"
+                },
+                "validationSchema": [
+                    [
+                        "yup.mixed"
+                    ]
+                ],
+                "initialValue": null,
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield1bca2306": {
+                "component-namespace": "faims-custom",
+                "component-name": "TakePhoto",
+                "type-returned": "faims-attachment::Files",
+                "component-parameters": {
+                    "fullWidth": true,
+                    "name": "newfield1bca2306",
+                    "id": "newfield1bca2306",
+                    "helpertext": "Take a photo",
+                    "variant": "outlined",
+                    "label": "Take Photo"
+                },
+                "validationSchema": [
+                    [
+                        "yup.object"
+                    ],
+                    [
+                        "yup.nullable"
+                    ]
+                ],
+                "initialValue": null,
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfielde265cab1": {
+                "component-namespace": "qrcode",
+                "component-name": "QRCodeFormField",
+                "type-returned": "faims-core::String",
+                "component-parameters": {
+                    "name": "newfielde265cab1",
+                    "id": "newfielde265cab1",
+                    "variant": "outlined",
+                    "required": false,
+                    "label": "",
+                    "FormLabelProps": {
+                        "children": "Input a value here"
+                    }
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "1",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldb00c07de": {
+                "component-namespace": "mapping-plugin",
+                "component-name": "MapFormField",
+                "type-returned": "faims-core::JSON",
+                "component-parameters": {
+                    "name": "newfieldb00c07de",
+                    "id": "newfieldb00c07de",
+                    "variant": "outlined",
+                    "required": false,
+                    "featureType": "Point",
+                    "zoom": 12,
+                    "label": "Point",
+                    "FormLabelProps": {
+                        "children": ""
+                    }
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "1",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfieldd2aa9a6c": {
+                "component-namespace": "mapping-plugin",
+                "component-name": "MapFormField",
+                "type-returned": "faims-core::JSON",
+                "component-parameters": {
+                    "name": "newfieldd2aa9a6c",
+                    "id": "newfieldd2aa9a6c",
+                    "variant": "outlined",
+                    "required": false,
+                    "featureType": "Polygon",
+                    "zoom": "12",
+                    "label": "Polygon",
+                    "FormLabelProps": {
+                        "children": ""
+                    }
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "1",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            },
+            "newfield8393a887": {
+                "component-namespace": "mapping-plugin",
+                "component-name": "MapFormField",
+                "type-returned": "faims-core::JSON",
+                "component-parameters": {
+                    "name": "newfield8393a887",
+                    "id": "newfield8393a887",
+                    "variant": "outlined",
+                    "required": false,
+                    "featureType": "LineString",
+                    "zoom": "12",
+                    "label": "Line String",
+                    "FormLabelProps": {
+                        "children": ""
+                    }
+                },
+                "validationSchema": [
+                    [
+                        "yup.string"
+                    ]
+                ],
+                "initialValue": "1",
+                "access": [
+                    "admin"
+                ],
+                "meta": {
+                    "annotation_label": "annotation",
+                    "annotation": true,
+                    "uncertainty": {
+                        "include": false,
+                        "label": "uncertainty"
+                    }
+                }
+            }
+        },
+        "fviews": {
+            "FORM1SECTION1": {
+                "fields": [
+                    "newfield71fcae4a",
+                    "newfield2d8a18d3",
+                    "newfield5946e78e",
+                    "newfieldd136be40",
+                    "newfieldb3d87df9"
+                ],
+                "uidesign": "form",
+                "label": "Text"
+            },
+            "FORM1SECTION2": {
+                "fields": [
+                    "newfield923e4bfe",
+                    "newfieldcd823089",
+                    "newfieldc18e17ca",
+                    "newfieldad5a104b",
+                    "newfield01dd64f4",
+                    "newfielde8f63490"
+                ],
+                "uidesign": "form",
+                "label": "Select"
+            },
+            "FORM2SECTION1": {
+                "fields": [
+                    "newfielde6238d9c",
+                    "newfieldb2767e13",
+                    "newfield1fbebdca",
+                    "newfield8bb2ef36",
+                    "newfielda572ceb9",
+                    "newfield814cba8a",
+                    "newfield5a7ae5b6",
+                    "hridFORM2",
+                    "newfield76708d5f",
+                    "newfield9c29bef7",
+                    "newfield3142bda9"
+                ],
+                "uidesign": "form",
+                "label": "Special"
+            },
+            "FORM3SECTION1": {
+                "fields": [
+                    "newfield1bca2306"
+                ],
+                "uidesign": "form",
+                "label": "Images"
+            },
+            "FORM3SECTION2": {
+                "fields": [
+                    "newfielde265cab1"
+                ],
+                "uidesign": "form",
+                "label": "QR Code"
+            },
+            "FORM3SECTION3": {
+                "fields": [
+                    "newfieldb00c07de",
+                    "newfieldd2aa9a6c",
+                    "newfield8393a887"
+                ],
+                "uidesign": "form",
+                "label": "Maps"
+            }
+        },
+        "viewsets": {
+            "FORM1": {
+                "views": [
+                    "FORM1SECTION1",
+                    "FORM1SECTION2"
+                ],
+                "label": "Text/Select"
+            },
+            "FORM2": {
+                "views": [
+                    "FORM2SECTION1"
+                ],
+                "label": "Special"
+            },
+            "FORM3": {
+                "views": [
+                    "FORM3SECTION1",
+                    "FORM3SECTION2",
+                    "FORM3SECTION3"
+                ],
+                "label": "Images/QRCode/Maps"
+            }
+        },
+        "visible_types": [
+            "FORM1",
+            "FORM2",
+            "FORM3"
+        ],
+        "_id": "ui-specification",
+        "_rev": "2-72c1d560fed601a05a68a4f5b3323c4f"
+    }
+]
